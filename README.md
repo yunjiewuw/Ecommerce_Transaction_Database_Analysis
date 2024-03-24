@@ -14,15 +14,15 @@ Study on E-commerce Industry and Business Objectives
 ![Exploration on E-commerce Industry](/readme_figures/research.png)
 
 - :eyeglasses: Data Exploration & EDA Analysis: Gain insights into the structure and content of the dataset.
-![table overview and merging](https://drive.google.com/file/d/19uxio7nbfsu-yHw2IZ7BsTQHcDGuA0H1/view?usp=drive_link)
-![EDA- descriptive approach](https://drive.google.com/file/d/16Uqn4CYUPRVBnkuMsY4AFG_aBaaAjl24/view?usp=sharing)
+![table overview and merging](/readme_figures/data_merging.png)
+![EDA- descriptive approach](/readme_figures/EDA.png)
 
 - :hourglass: Feature Engineering: 
 Preprocess and transform the data to create relevant features for modeling. 
 
 - :bar_chart: Model Training: 
 Build and train classification models to predict product bundles based on transactional data.
-![Trend decomposition and KMean clustering](https://drive.google.com/file/d/1uL6iAV3-GcIOlCI_uDNkpIADT7aNW1Ya/view?usp=sharing)
+![Trend decomposition and KMean clustering](/readme_figures/trend_cluster.png)
 
 - :heavy_check_mark: Model Evaluation: 
 Assess the performance of the trained models using metrics such as accuracy and confusion matrix.
