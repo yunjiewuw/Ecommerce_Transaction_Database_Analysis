@@ -3,6 +3,8 @@
 ## Overview
 The E-commerce Transaction Database Analysis project aims to provide valuable business insights to an e-commerce firm by analyzing transaction data from 2019. The analysis includes various aspects such as revenue differences between new and old customers, predicting customer lifetime value, identifying sales bundles, and segmenting customers using both heuristic and machine learning techniques. Leveraging transaction, tax, and spend datasets, this project serves as a foundation for deriving actionable business strategies.
 
+## Summary of Findings:
+- TBF (to be filled)
 ---
 ## Dataset
 The dataset used for this analysis comprises transactional data from the public Kaggle Database: [Marketing Insights for E-Commerce Company](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company)
