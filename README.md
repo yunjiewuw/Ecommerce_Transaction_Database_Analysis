@@ -14,7 +14,6 @@ Study on E-commerce Industry and Business Objectives
 ![Exploration on E-commerce Industry](/readme_figures/research.png)
 
 - :eyeglasses: Data Exploration & EDA Analysis: Gain insights into the structure and content of the dataset.
-![table overview and merging](/readme_figures/data_merging.png)
 ![EDA- descriptive approach](/readme_figures/EDA.png)
 
 - :hourglass: Feature Engineering: 
