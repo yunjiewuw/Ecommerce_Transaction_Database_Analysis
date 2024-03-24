@@ -8,13 +8,16 @@ The dataset used for this analysis comprises transactional data from the public 
 
 ## Analysis Process
 Data Exploration: Gain insights into the structure and content of the dataset.
-Feature Engineering: Preprocess and transform the data to create relevant features for modeling.
-Model Training: Build and train classification models to predict product bundles based on transactional data.
-Model Evaluation: Assess the performance of the trained models using metrics such as accuracy and confusion matrix.
+### - Feature Engineering: 
+Preprocess and transform the data to create relevant features for modeling.
+### - Model Training: 
+Build and train classification models to predict product bundles based on transactional data.
+### - Model Evaluation: 
+Assess the performance of the trained models using metrics such as accuracy and confusion matrix.
 
 ## Technologies Used
 Python: Programming language used for data analysis and modeling.
-pandas: Library for data manipulation and analysis.
-scikit-learn: Library for machine learning algorithms and evaluation metrics.
-matplotlib and seaborn: Libraries for data visualization.
-Jupyter Notebook: Interactive environment for conducting data analysis and experimentation.
+- pandas: Library for data manipulation and analysis.
+- scikit-learn: Library for machine learning algorithms and evaluation metrics.(Kmeans, LogisticRegression, SVM)
+- mlxtend: apriori algorithm 
+- matplotlib and seaborn: Libraries for data visualization.
