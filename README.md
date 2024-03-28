@@ -5,9 +5,13 @@ The E-commerce Transaction Database Analysis project aims to provide valuable bu
 
 ## Summary of Findings:
 - TBF (to be filled)
----
-## Dataset
-The dataset used for this analysis comprises transactional data from the public Kaggle Database: [Marketing Insights for E-Commerce Company](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company)
+
+## Technologies Used
+Python: Programming language used for data analysis and modeling.
+- pandas: Library for data manipulation and analysis.
+- scikit-learn: Library for machine learning algorithms and evaluation metrics.(Kmeans, LogisticRegression, SVM)
+- mlxtend: apriori algorithm 
+- matplotlib and seaborn: Libraries for data visualization.
 
 ---
 ## Analysis Process
@@ -28,10 +32,6 @@ Build and train classification models to predict product bundles based on transa
 - :heavy_check_mark: Model Evaluation: 
 Assess the performance of the trained models using metrics such as accuracy and confusion matrix.
 
----
-## Technologies Used
-Python: Programming language used for data analysis and modeling.
-- pandas: Library for data manipulation and analysis.
-- scikit-learn: Library for machine learning algorithms and evaluation metrics.(Kmeans, LogisticRegression, SVM)
-- mlxtend: apriori algorithm 
-- matplotlib and seaborn: Libraries for data visualization.
+## Dataset
+The dataset used for this analysis comprises transactional data from the public Kaggle Database: [Marketing Insights for E-Commerce Company](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company)
+
